@@ -1,4 +1,4 @@
-# Home Tasks repository - EPAM Ruby Intensive. 
+# Home Tasks repository - EPAM Ruby Intensive.
 ## Student name: Oleh Yashtulov
 
 ### Tasks - Part 1 [See solutions](https://github.com/signal-tenet/EPAM_Ruby_Intensive/blob/tasks_part1/Tasks1_Solutions.md)
@@ -14,14 +14,14 @@ Output example: 2912 == 2 + 222 * 22222 / 22
 ### Tasks - Part 2
 #### Main tasks
 
-1. Створити змінні text1='Hello' і text2='World'. За допомогою цих змінних і операції складання рядків вивести на екран фразу «Hello world».
-2. Створити змінну var і призначити їй значення 'hello'. Звертаючись до окремих символів цього рядка – вивести на екран символ 'h', символ 'e', символ 'o'.
-3. Якщо змінна a більша нуля і менша 5-ти, то вивести 'Вірно', інакше вивести 'Невірно'. Перевірте роботу скрипта при a, зі значеннями - 5, 0, -3, 2.
-4. Змінна min має число від 0 до 59. Визначити в яку чверть години потрапляє число, відповідно вивести на екран одне з значень: «перша», «друга», «третя», «четверта».
-5. В змінній year збігається рік. Визначте чи є він високосним. Рік буде високосним в двох випадках: або він ділиться на 4, але при цьому не ділиться на 100, або ділиться на 400.
-6. Є рядок з 6-ти чисел (наприклад: 385934). Перевірте, чи сума перших трьох чисел дорівнює сумі других трьох чисел. Якщо це так – виведіть 'так' інакше – 'ні'.
- 
-#### Bonus tasks
+1. Створити змінні text1='Hello' і text2='World'. За допомогою цих змінних і операції складання рядків вивести на екран фразу «Hello world». [See solution](https://github.com/signal-tenet/EPAM_Ruby_Intensive/blob/tasks_part2.1/HelloWorld.rb)
+2. Створити змінну var і призначити їй значення 'hello'. Звертаючись до окремих символів цього рядка – вивести на екран символ 'h', символ 'e', символ 'o'. [See solution](https://github.com/signal-tenet/EPAM_Ruby_Intensive/blob/tasks_part2.2/Hello_Index.rb)
+3. Якщо змінна a більша нуля і менша 5-ти, то вивести 'Вірно', інакше вивести 'Невірно'. Перевірте роботу скрипта при a, зі значеннями - 5, 0, -3, 2. [See solution](https://github.com/signal-tenet/EPAM_Ruby_Intensive/blob/tasks_part2.3/True_Or_False.rb)
+4. Змінна min має число від 0 до 59. Визначити в яку чверть години потрапляє число, відповідно вивести на екран одне з значень: «перша», «друга», «третя», «четверта». [See solution](https://github.com/signal-tenet/EPAM_Ruby_Intensive/blob/tasks_part2.4/quarter.rb)
+5. В змінній year збігається рік. Визначте чи є він високосним. Рік буде високосним в двох випадках: або він ділиться на 4, але при цьому не ділиться на 100, або ділиться на 400. [See solution](https://github.com/signal-tenet/EPAM_Ruby_Intensive/blob/tasks_part2.5/leap_year.rb)
+6. Є рядок з 6-ти чисел (наприклад: 385934). Перевірте, чи сума перших трьох чисел дорівнює сумі других трьох чисел. Якщо це так – виведіть 'так' інакше – 'ні'. [See solution](https://github.com/signal-tenet/EPAM_Ruby_Intensive/blob/tasks_part2.6/happy_numbers.rb)
+
+#### Bonus tasks [See solution](https://github.com/signal-tenet/EPAM_Ruby_Intensive/blob/bonus_task/compare_str_sum.rb)
 Compare two strings by comparing the sum of their values (ASCII character code).
 For comparing treat all letters as UpperCase.
 
