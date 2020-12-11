@@ -41,3 +41,5 @@ null, "" -> equal
 ```
 
 Your method should return true if the strings are equal and false if they are not equal.
+
+Codewars - you can check codewars solutions at [codewars branch](https://github.com/signal-tenet/EPAM_Ruby_Intensive/tree/codewars)
