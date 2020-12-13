@@ -1,4 +1,4 @@
-puts 'Input digit less than 5 and greater than 0.'
+puts 'Input digit from 0 up to 59.'
 a = gets.chomp
 
 case a.to_i
